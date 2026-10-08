@@ -49,24 +49,24 @@ Built in Power BI, connected directly to the cleaned data, and filterable by dep
 
 ## Risk Score
 
-I built a simple risk score to flag employees who are more likely to leave.
+After finishing the analysis, I wanted to do something more practical than just describing the problem.
 
-The score is based on the strongest factors from the analysis:
+I built a simple risk score for each employee based on the strongest factors that showed up:
+
 - Overtime
-- Tenure (first 2 years)
+- Years at the company (especially the first 2 years)
 - Age
 - Marital status
 - Distance from home
-- Job role (Sales Representative)
+- Job role (mainly Sales Representative)
 - Low job satisfaction
 
-**Results:**
-- High Risk (113 employees): 55.8% attrition
-- Medium Risk (370 employees): 27.3% attrition
-- Low Risk (990 employees): 7.4% attrition
+Results:
+- High Risk → 113 employees → about 56% attrition
+- Medium Risk → 370 employees → about 27% attrition
+- Low Risk → 990 employees → about 7% attrition
 
-This helps move from just describing the problem to identifying who needs attention now.
-
+The difference is clear, and it helps identify who we should focus on right now.
 ## ✅ What I'd suggest
 
 * Strengthen onboarding and support for employees in their first two years
