@@ -47,6 +47,26 @@ Built in Power BI, connected directly to the cleaned data, and filterable by dep
 * **Single employees leave more often** than married or divorced employees
 * **R\&D has the lowest attrition (13.8%)** despite being the largest department
 
+## Risk Score
+
+I built a simple risk score to flag employees who are more likely to leave.
+
+The score is based on the strongest factors from the analysis:
+- Overtime
+- Tenure (first 2 years)
+- Age
+- Marital status
+- Distance from home
+- Job role (Sales Representative)
+- Low job satisfaction
+
+**Results:**
+- High Risk (113 employees): 55.8% attrition
+- Medium Risk (370 employees): 27.3% attrition
+- Low Risk (990 employees): 7.4% attrition
+
+This helps move from just describing the problem to identifying who needs attention now.
+
 ## ✅ What I'd suggest
 
 * Strengthen onboarding and support for employees in their first two years
