@@ -75,11 +75,13 @@ The difference is clear, and it helps identify who we should focus on right now.
 
 ## 📁 Files
 
-* `data\_cleaning.sql` — cleaning and quality checks
-* `HR\_analysis.sql` — 12 SQL queries with findings
-* `Power Bi.pbix` — the full dashboard
-* `HR Analytics.csv` — raw data
-* `Dashboard Screenshot/` — dashboard images
+- data_cleaning.sql — cleaning and quality checks
+- HR_analysis.sql — 12 SQL queries with findings
+- Risk_Score.sql — employee risk score and segmentation
+- Power Bi.pbix — the full dashboard
+- HR Analytics.csv — raw data
+- Dashboard Screenshot/ — dashboard images
+
 
 
 
